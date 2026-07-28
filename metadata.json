@@ -1,0 +1,6 @@
+{
+  "name": "FA97",
+  "description": "Real-time WhatsApp-style chat application with unique code-based identity system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
